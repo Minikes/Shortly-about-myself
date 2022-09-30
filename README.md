@@ -1,6 +1,7 @@
 # Коротко обо мне
 
-Внешность для тестировщика не главное, но вот фото, чтобы отличить меня от других претендентов на собеседовании <img src="file:///C:\Users\Keila\Desktop\Фото для резюме.jpg" />
+Внешность для тестировщика не главное, но вот фото, чтобы отличить меня от других претендентов на собеседовании ![](https://sun9-north.userapi.com/sun9-80/s/v1/if2/8tfU4nn6FS5k5njMi-aKY73Fi8ttgyQJ2QlhkKC1vQJtmxG_XnN66b8SVeOwkRP3aIQepDflWm-T9kfcNVuwvEe1.jpg?size=1194x1902&quality=96&type=album)
+
 
 ## Образование
 
