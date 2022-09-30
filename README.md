@@ -3,7 +3,7 @@
 Внешность для тестировщика не главное, но вот фото, чтобы отличить меня от других претендентов на собеседовании ![](https://sun9-north.userapi.com/sun9-80/s/v1/if2/8tfU4nn6FS5k5njMi-aKY73Fi8ttgyQJ2QlhkKC1vQJtmxG_XnN66b8SVeOwkRP3aIQepDflWm-T9kfcNVuwvEe1.jpg?size=1194x1902&quality=96&type=album)
 
 
-## Образование
+# Образование
 
 Не профильное, незаконченное высшее "педагог-психолог", за тосейчас учусь на тестировщика в [Нетологии](https://netology.ru/programs/qa).
 
